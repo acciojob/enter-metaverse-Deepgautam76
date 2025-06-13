@@ -2,6 +2,6 @@
 let button=document.getElementById("btn");
 
 button.addEventListener("click",function(){
-	let textchange=document.getElementById("para");
-	textchange.innerHTML="<h1>Enter the Metaverse</h1>";
+	let textchange=document.getElementById("status");
+	textchange.innerHTML="<h1>Entered Metaverse</h1>";
 });
